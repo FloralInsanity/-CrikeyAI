@@ -1,0 +1,4 @@
+Keymaster, - 4x multiplier
+Sage, - 2x multipler
+Sacrifice, - 0x multipler
+Commoner, - 1x multiplier
